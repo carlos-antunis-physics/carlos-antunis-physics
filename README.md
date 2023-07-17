@@ -5,10 +5,6 @@
 
 I'm a graduating student of Physics at bachelor degree in Federal University of Alagoas - UFAL, passionate with Computational Physics.
 
-### Social
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&?style=flatc&logoColor=white)](https://www.instagram.com/carlos.phys/)
-
 ### Computational Physics (work in progress)
 
 Along my graduation I've worked with Computational Physics, and this increase my world view a lot. Today, It's a important part of my life that I want to improve, learning more numerical algorithms and methods to implement them.
