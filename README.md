@@ -3,7 +3,7 @@
 
 ---
 
-### Computational Physics (work in progress)
+## Computational Physics (work in progress)
 
 ![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plsatic&logo=C&logoColor=white)
 ![Linguagem Fortran](https://img.shields.io/badge/Linguagem%20FORTRAN-4d41b1?style=plsatic&logo=fortran&logoColor=white)
