@@ -19,7 +19,7 @@ Along my graduation I've worked with Computational Physics, and this increase my
     </div>
     <div>
         <a href="https://github.com/carlos-antunis-physics">
-            <img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis-physics&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&hide=fortran" alt="Carlos-Antunis most used languages" />
+            <img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis-physics&langs_count=10&theme=tokyonight&hide_border=true&layout=compact" alt="Carlos-Antunis most used languages" />
         </a>
     </div>
 </div>
