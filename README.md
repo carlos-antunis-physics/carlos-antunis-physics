@@ -43,6 +43,15 @@ Since programming can only be learned by actually programming, this repository a
 
 ---
 
+#### [Compositional Disorder Generators](https://github.com/carlos-antunis-physics/Compositional-Disorder-Generators)
+
+![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
+![GNU Scientific Library](https://img.shields.io/badge/GNU%20Scientific%20Library-800000?style=plastic)
+
+Since impurities and imperfections are in the most of materials found in nature and synthetized at laboratories, comprehend its effects in macroscopic properties of materials are of enormous importance. This repository provides a framework to compute some useful composition distribuitions with (and without) disorder to another projects.
+
+---
+
 <!--
 #### [Vibrational transport in low-dimensional lattices]()
 
