@@ -21,7 +21,7 @@ I'm currently an undergraduating student on Bachelor degree in Physics at Federa
     </div>
     <div>
         <a href="https://github.com/carlos-antunis-physics">
-            <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis-physics&langs_count=5&theme=tokyonight&hide_border=true&layout=compact" alt="Carlos-Antunis most used languages" />
+            <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis-physics&langs_count=5&theme=tokyonight&hide_border=true&layout=compact&lang_count=4" alt="Carlos-Antunis most used languages" />
         </a>
     </div>
 </div>
