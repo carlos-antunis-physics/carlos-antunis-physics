@@ -29,6 +29,7 @@ I'm currently an undergraduating student on Bachelor degree in Physics at Federa
 
 ### My projects
 
+---
 #### [Introdução às Linguagens de Programação para Física Computacional](https://github.com/carlos-antunis-physics/Introducao-as-Linguagens-de-Programacao-para-Fisica-Computacional)
 
 ![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
@@ -39,6 +40,8 @@ I'm currently an undergraduating student on Bachelor degree in Physics at Federa
 -->
 
 Since programming can only be learned by actually programming. This repository aim to present some interesting source-codes with valuable concepts and algorithms on Computational Physics. In distinction from the others, here I made it available in my native language - Brazilian Portuguese - to facilitate access for interested beginners.
+
+---
 
 <!--
 #### [Vibrational transport in low-dimensional lattices]()
