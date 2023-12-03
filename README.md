@@ -1,10 +1,10 @@
-<span align = "center">
+<div align = "center">
 
 # Hi, I'm Carlos Antunis
 
 ### A coffee-based lifeform and computational physics enthusiast
 
-</span>
+</div>
 
 ![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
 ![Linguagem Fortran](https://img.shields.io/badge/Linguagem%20Fortran-4d41b1?style=plastic)
