@@ -11,7 +11,7 @@
 ![Linguagem Python](https://img.shields.io/badge/Linguagem%20Python-3572A5?style=plastic)
 ![Linguagem MATLAB](https://img.shields.io/badge/Linguagem%20MATLAB-e16737?style=plastic)
 
-I'm currently an undergraduating student on Bachelor degree in Physics at Federal University of Alagoas - UFAL. Along my graduation I've worked as Scientific Initiation Student on Theoretical Physics, and the employ of Computational Methods to unveil hidden aspects of natural phenomena began to fascinate me. All this marvelous experiences have increased enormously my world view and, as result of it, today I'm an passionate with Computational Physics. As a budding computational physicist I've learned programing languages as `C`, `Fortran`, `MATLAB` and `Python` (besides a few of its modules), having more affinity with programming in `C`.
+I'm currently an undergraduating student on Bachelor degree in Physics at Universidade Federal de Alagoas - UFAL. Along my graduation I've worked as Scientific Initiation Student on Theoretical Physics, and the employ of Computational Methods to unveil hidden aspects of natural phenomena began to fascinate me. All this marvelous experiences have increased enormously my world view and, as result of it, today I'm an passionate with Computational Physics. As a budding computational physicist I've learned programing languages as `C`, `Fortran`, `MATLAB` and `Python` (besides a few of its modules), having more affinity with programming in `C`.
 
 <div align="center">
     <div>
