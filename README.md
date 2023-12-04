@@ -30,20 +30,26 @@ I'm currently an undergraduating student on Bachelor degree in Physics at Univer
 ### My repositories
 
 ---
-#### [Aspectos de Física Computacional](https://github.com/carlos-antunis-physics/Aspectos-de-Fisica-Computacional)
+##### [Aspectos de Física Computacional](https://github.com/carlos-antunis-physics/Aspectos-de-Fisica-Computacional)
 
 ![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
 ![Linguagem Fortran](https://img.shields.io/badge/Linguagem%20Fortran-4d41b1?style=plastic)
 <!--
+Future prospects:
 ![Linguagem MATLAB](https://img.shields.io/badge/Linguagem%20MATLAB-e16737?style=plastic)
 ![Linguagem Python](https://img.shields.io/badge/Linguagem%20Python-3572A5?style=plastic)
+![Linguagem Julia](https://img.shields.io/badge/Linguagem%20Julia-a270ba?style=plastic)
 -->
 
 Since programming can only be learned by actually programming, this repository aim to present some source-codes with valuable concepts on each presented programming language and some interesting algorithms of Computational Physics. In distinction from the others, here I made it available in my native language - Brazilian Portuguese - to facilitate access for interested beginners.
 
 ---
 
-#### [Compositional Disorder Generators](https://github.com/carlos-antunis-physics/Compositional-Disorder-Generators)
+#### Transport properties in low-dimensional systems
+
+---
+
+##### [Compositional Disorder Generators](https://github.com/carlos-antunis-physics/Compositional-Disorder-Generators)
 
 ![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
 ![GNU Scientific Library](https://img.shields.io/badge/GNU%20Scientific%20Library-800000?style=plastic)
@@ -53,20 +59,42 @@ Since impurities and imperfections are in the most of materials found in nature 
 ---
 
 <!--
-#### [Vibrational transport in low-dimensional lattices]()
+
+##### [Vibrational transport in low-dimensional lattices](https://github.com/carlos-antunis-physics/Compositional-Disorder-Generators)
 
 ![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
 
-#### [Quantum-state transference in low-dimensional lattices]()
+---
+
+##### [Eletronic transport in low-dimensional lattices](https://github.com/carlos-antunis-physics/Compositional-Disorder-Generators)
 
 ![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
 
-#### [Transport properties in low-dimensional lattices]()
+---
+
+##### [Transport properties evaluation](https://github.com/carlos-antunis-physics/Compositional-Disorder-Generators)
 
 ![Linguagem Fortran](https://img.shields.io/badge/Linguagem%20Fortran-4d41b1?style=plastic)
 ![Linguagem Python](https://img.shields.io/badge/Linguagem%20Python-3572A5?style=plastic)
 
-#### [Optical waves propagation through non-linear Kerr-like media]()
+---
+
+#### Non-linear optics
+
+---
+
+##### [Optical fields generators](https://github.com/carlos-antunis-physics/Compositional-Disorder-Generators)
 
 ![Linguagem MATLAB](https://img.shields.io/badge/Linguagem%20MATLAB-e16737?style=plastic)
+![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
+
+---
+
+##### [Non-linear Kerr-like medium optical wave propagation](https://github.com/carlos-antunis-physics/Compositional-Disorder-Generators)
+
+![Linguagem MATLAB](https://img.shields.io/badge/Linguagem%20MATLAB-e16737?style=plastic)
+
+---
+
+
 -->
