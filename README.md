@@ -30,7 +30,7 @@ I'm currently an undergraduating student on Bachelor degree in Physics at Univer
 ### My repositories
 
 ---
-#### [Introdução às Linguagens de Programação para Física Computacional](https://github.com/carlos-antunis-physics/Introducao-as-Linguagens-de-Programacao-para-Fisica-Computacional)
+#### [Aspectos de Física Computacional](https://github.com/carlos-antunis-physics/Aspectos-de-Fisica-Computacional)
 
 ![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
 ![Linguagem Fortran](https://img.shields.io/badge/Linguagem%20Fortran-4d41b1?style=plastic)
