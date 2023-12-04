@@ -27,7 +27,7 @@ I'm currently an undergraduating student on Bachelor degree in Physics at Univer
 </div>
 
 
-### My projects
+### My repositories
 
 ---
 #### [Introdução às Linguagens de Programação para Física Computacional](https://github.com/carlos-antunis-physics/Introducao-as-Linguagens-de-Programacao-para-Fisica-Computacional)
