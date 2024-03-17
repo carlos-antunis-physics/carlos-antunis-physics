@@ -31,7 +31,7 @@ I'm currently an undergraduating student on Bachelor degree in Physics at Univer
 
 ---
 
-##### [Aspectos de física computacional](https://github.com/carlos-antunis-physics/Aspectos-de-Fisica-Computacional)
+##### [Aspectos de física computacional](https://github.com/carlos-antunis-physics/Aspectos-de-fisica-computacional)
 
 ![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
 ![Linguagem Fortran](https://img.shields.io/badge/Linguagem%20Fortran-4d41b1?style=plastic)
