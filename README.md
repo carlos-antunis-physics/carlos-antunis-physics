@@ -21,7 +21,7 @@ I'm currently an undergraduating student on Bachelor degree in Physics at Univer
     </div>
     <div>
         <a href="https://github.com/carlos-antunis-physics">
-            <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis-physics&langs_count=5&theme=tokyonight&hide_border=true&layout=compact&lang_count=4" alt="Carlos-Antunis most used languages" />
+            <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis-physics&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Carlos-Antunis most used languages" />
         </a>
     </div>
 </div>
@@ -45,11 +45,11 @@ Since programming can only be learned by actually programming, this repository a
 
 ---
 
-##### [Numerical Optics](https://github.com/carlos-antunis-physics/numerical-optics)
+##### [Computational beam optics](https://github.com/carlos-antunis-physics/computational-beam-optics)
 
 ![Linguagem Python](https://img.shields.io/badge/Linguagem%20Python-3572A5?style=plastic)
 
-Numerical methods to estimate light beam propagation through optical media by solving its paraxial wave equation.
+Understand the effects of an optical medium (even more the non-linear) on the propagation of a light beam are of enormous importance and encompass an inportant source of novel applications. However, provide a general analytical solution which embbed non-linear effects on light propagation is quite difficult (or sometimes impossible). Thus, the computational implementation of numerical methods algorithms of estimation are broadly the approach on the optical phenomena studying.
 
 ---
 
