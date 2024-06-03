@@ -50,7 +50,8 @@ Since programming can only be learned by actually programming, this repository a
 ![Linguagem Python](https://img.shields.io/badge/Linguagem%20Python-3572A5?style=plastic)
 ![numpy: 1.26.4](https://img.shields.io/badge/numpy-1.26.4-green?style=plastic)
 ![scipy: 8.2](https://img.shields.io/badge/scipy-8.2-green?style=plastic)
-![plotly: 5.20.0](https://img.shields.io/badge/plotly-5.20.0-green?style=plastic)
+![matplotlib: 3.8.3](https://img.shields.io/badge/matplotlib-3.8.3-green?style=plastic)
+![ipython: 8.22.2](https://img.shields.io/badge/ipython-8.22.2-green?style=plastic)
 
 Understand the effects of an optical medium (even more the non-linear) on the propagation of a light beam are of enormous importance and encompass an inportant source of novel applications. However, provide an analytical method cappable to comprehend this (which embbed possible non-linear effects) is quite difficult (or sometimes impossible) leading to computational approaches. This repository aims to provide a python module with numerical routines to solve partial diferential equations which encompass the optical media effects (even if non-linear) on light propagation. Some examples of usage are disposed in my native language - Brazilian Portuguese - to facilitate learning to interested ones.
 
