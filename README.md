@@ -2,7 +2,7 @@
 
 # Hi, I'm Carlos Antunis
 
-### A coffee-based lifeform and computational physics enthusiast
+### ☕ A coffee-based lifeform and computational physics enthusiast
 
 </div>
 
