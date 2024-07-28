@@ -6,10 +6,10 @@
 
 </div>
 
-![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
-![Linguagem Fortran](https://img.shields.io/badge/Linguagem%20Fortran-4d41b1?style=plastic)
-![Linguagem Python](https://img.shields.io/badge/Linguagem%20Python-3572A5?style=plastic)
-![Linguagem MATLAB](https://img.shields.io/badge/Linguagem%20MATLAB-e16737?style=plastic)
+![C](https://img.shields.io/badge/C-555555?style=plastic)
+![Fortran](https://img.shields.io/badge/Fortran-4d41b1?style=plastic)
+![Python](https://img.shields.io/badge/Python-3572A5?style=plastic)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=plastic)
 
 I'm currently a MSc student in Physics at Universidade Federal de Alagoas - UFAL. Along my graduation I've worked as Scientific Initiation Student on Theoretical Physics, and the employ of Computational Methods to unveil hidden aspects of natural phenomena began to fascinate me. All this marvelous experiences have increased enormously my world view and, as result of it, today I'm a Computational Physics passionate. As a budding computational physicist, I've learned programing languages as `C`, `Fortran`, `MATLAB` and `Python` (besides a few of its modules), having more affinity with programming in `C` and `Python`.
 
@@ -33,12 +33,11 @@ I'm currently a MSc student in Physics at Universidade Federal de Alagoas - UFAL
 
 ##### [Aspectos de física computacional](https://github.com/carlos-antunis-physics/Aspectos-de-fisica-computacional)
 
-![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
-![Linguagem Fortran](https://img.shields.io/badge/Linguagem%20Fortran-4d41b1?style=plastic)
+![C](https://img.shields.io/badge/C-555555?style=plastic)
+![Fortran](https://img.shields.io/badge/Fortran-4d41b1?style=plastic)
 <!--
-Future prospects:
-![Linguagem Python](https://img.shields.io/badge/Linguagem%20Python-3572A5?style=plastic)
-![Linguagem MATLAB](https://img.shields.io/badge/Linguagem%20MATLAB-e16737?style=plastic)
+    (It's not a easter-egg) as future prospects, I want to implement the whole repository with python + jupyter + f2py.
+    ![Linguagem Python](https://img.shields.io/badge/Linguagem%20Python-3572A5?style=plastic)
 -->
 
 Since programming can only be learned by actually programming, this repository aim to present some source-codes with valuable concepts on each presented programming language and some interesting algorithms of Computational Physics. In distinction from the others, here I made it available in my native language - Brazilian Portuguese - to facilitate access for interested beginners.
@@ -47,7 +46,7 @@ Since programming can only be learned by actually programming, this repository a
 
 ##### [Computational beam optics](https://github.com/carlos-antunis-physics/computational-beam-optics)
 
-![Linguagem Python](https://img.shields.io/badge/Linguagem%20Python-3572A5?style=plastic)
+![Python](https://img.shields.io/badge/Python-3572A5?style=plastic)
 ![numpy: 1.26.4](https://img.shields.io/badge/numpy-1.26.4-green?style=plastic)
 ![scipy: 8.2](https://img.shields.io/badge/scipy-8.2-green?style=plastic)
 ![matplotlib: 3.8.3](https://img.shields.io/badge/matplotlib-3.8.3-green?style=plastic)
