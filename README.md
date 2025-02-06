@@ -35,10 +35,10 @@ I'm currently a MSc student in Physics at Universidade Federal de Alagoas - UFAL
 
 ![C](https://img.shields.io/badge/C-555555?style=plastic)
 ![Fortran](https://img.shields.io/badge/Fortran-4d41b1?style=plastic)
-<!--
+
     (It's not an easter-egg) as future prospects, I want to implement the whole repository only with python + jupyter + f2py (maybe with cython).
     ![Linguagem Python](https://img.shields.io/badge/Linguagem%20Python-3572A5?style=plastic)
--->
+
 
 > Since programming can only be learned by actually programming, this repository aim to present some source-codes with valuable concepts on each presented programming language and some interesting algorithms of Computational Physics. In distinction from the others, here I made it available in my native language - Brazilian Portuguese - to facilitate access for interested beginners.
 -->
