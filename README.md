@@ -28,6 +28,7 @@ I'm currently a MSc student in Physics at Universidade Federal de Alagoas - UFAL
 
 ### My repositories
 
+<!---
 ---
 
 ##### [Computational physics fundamentals](https://github.com/carlos-antunis-physics/Aspectos-de-fisica-computacional)
@@ -40,6 +41,7 @@ I'm currently a MSc student in Physics at Universidade Federal de Alagoas - UFAL
 -->
 
 > Since programming can only be learned by actually programming, this repository aim to present some source-codes with valuable concepts on each presented programming language and some interesting algorithms of Computational Physics. In distinction from the others, here I made it available in my native language - Brazilian Portuguese - to facilitate access for interested beginners.
+-->
 
 ---
 
