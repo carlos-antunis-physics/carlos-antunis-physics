@@ -20,9 +20,9 @@ language](https://img.shields.io/badge/Julia-white.svg?logo=data:image/svg%2bxml
 
 I'm a Brazilian student, from the state of Alagoas, who early became fascinated with the strangeness of nature. This passion, leads me to an undergraduate course in Physics, in which I worked as a scientific initiation student in computational physics projects, and the capability of computing techniques to unveil couterintuitive aspects of nature changed entirely my world-view. Along my survey on Computational Physics, I've learned programming languages as C, Fortran and Python, besides a little bit of Matlab and Julia. Nowadays, besides being a MSc student in Physics, I'm an early undergraduate student in Computer Engineering, hoping to aggregate knowledges from both areas to see through different viewpoints.
 
-![Github status](https://github-readme-stats.vercel.app/api?username=carlos-antunis-physics&show_icons=true&theme=tokyonight&hide_border=true&card_width=1012)
+![Github status](https://github-readme-stats.vercel.app/api?username=carlos-antunis-physics&show_icons=true&theme=tokyonight&hide_border=true&card_width=506)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis-physics&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&card_width=1012)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis-physics&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&card_width=506)
 
 ### My research interests
 
