@@ -41,4 +41,4 @@ I always loved being challenged, because this usually turns out in opportunities
 >   ![scipy: 1.15.1](https://img.shields.io/badge/scipy-1.15.1-efefef?style=flat)
 >   ![scipy: 8.2](https://img.shields.io/badge/sympy-1.13.1-efefef?style=flat)
 >   >
->   >  Understand the effects of optical devices (even more that with non-linear responses) on light are of enormous importance and encompass an important source of novel applications. This repository aims to provide a simple and optimized `python` toolkit for simulation and lab utils on classical and quantum optics, encompassing optical media effects (even if it presents non-linear responses).
+>   >  Understand the effects of optical devices (even more that ones with non-linear responses) on light are of enormous importance and encompass an important source of novel applications. This repository aims to provide a simple and optimized `python` toolkit for simulation and lab utils on classical and quantum optics, encompassing optical media effects (even if it presents non-linear responses).
