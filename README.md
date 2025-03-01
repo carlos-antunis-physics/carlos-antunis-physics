@@ -42,3 +42,9 @@ I always loved being challenged, because this usually turns out in opportunities
 >   [![scipy: 8.2](https://img.shields.io/badge/sympy-1.13.1-efefef?style=flat)](#---)
 >   >
 >   >  Understand the effects of optical devices (even more that ones with non-linear responses) on light are of enormous importance and encompass an important source of novel applications. This repository aims to provide a simple and optimized `python` toolkit for simulation and lab utils on classical and quantum optics, encompassing optical media effects (even if it presents non-linear responses).
+
+>   [**Data Structures and Algorithms in C**](https://github.com/carlos-antunis-physics/algoritmos-e-estruturas-de-dados-em-linguagem-c)
+>
+>   [![C programming language](https://img.shields.io/badge/C-efefef.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjNjU5QUQzIiBkPSJNMTE1LjQgMzAuN0w2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjQgMSAzLjVsMTA2LjgtNjJjLS42LTEuMi0xLjUtMi4xLTIuNC0yLjd6Ii8+PHBhdGggZmlsbD0iIzAzNTk5QyIgZD0iTTEwLjcgOTUuM2MuNS44IDEuMiAxLjUgMS45IDEuOWw0OC4yIDI3LjljLjguNSAxLjkuNyAzLjEuNyAxLjIgMCAyLjMtLjMgMy4xLS43bDQ4LTI3LjljMS43LTEgMi45LTMuNSAyLjktNS40VjM2LjFjMC0uOS0uMS0xLjktLjYtMi44bC0xMDYuNiA2MnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNODUuMyA3Ni4xQzgxLjEgODMuNSA3My4xIDg4LjUgNjQgODguNWMtMTMuNSAwLTI0LjUtMTEtMjQuNS0yNC41czExLTI0LjUgMjQuNS0yNC41YzkuMSAwIDE3LjEgNSAyMS4zIDEyLjVsMTMtNy41Yy02LjgtMTEuOS0xOS42LTIwLTM0LjMtMjAtMjEuOCAwLTM5LjUgMTcuNy0zOS41IDM5LjVzMTcuNyAzOS41IDM5LjUgMzkuNWMxNC42IDAgMjcuNC04IDM0LjItMTkuOGwtMTIuOS03LjZ6Ii8+PC9zdmc+&style=flat)](#---)
+>   >
+>   >  This repo has the aim to gather source-codes developed in C programming language along my Programation I and Data Structures courses, while undergraduate student in Computer Engineering at IC - UFAL.
