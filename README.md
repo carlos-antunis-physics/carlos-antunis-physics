@@ -28,11 +28,11 @@ I'm a Brazilian student, from the state of Alagoas, who early became fascinated 
 
 </div>
 
-### My research interests
+### Research interests
 
 I always loved being challenged, because this usually turns out in opportunities to learn more and grow up my skills. This urge for challenges impeled me to dive into the realm of novel **quantum technologies**, and since my research group is focused on design of **photonic devices**, I am eager to understand both **protocols of quantum communication** as **quantum algorithms** and the possibility of their implementations through optical devices, hoping to help on pushing further the current computing and cryptography capabilities.
 
-### My repositories
+### Repositories
 
 >   [**Computational optics**](https://github.com/carlos-antunis-physics/computational-optics)
 >
