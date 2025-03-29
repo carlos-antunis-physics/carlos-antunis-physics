@@ -44,7 +44,8 @@ I am profoundly eager to understand more deeply novel quantum technologies (*QT*
 >   >
 >   >  Understand the effects of optical devices (even more that ones with non-linear responses) on light are of enormous importance and encompass an important source of novel applications. This repository aims to provide a simple and optimized `python` toolkit for simulation and lab utils on classical and quantum optics, encompassing optical media effects (even if it presents non-linear responses).
 
-<!-- ####    Computer engineering projects
+<!--
+####    Computer engineering projects
 
 >   [**Discrete mathematics project**]()
 >
@@ -62,10 +63,12 @@ I am profoundly eager to understand more deeply novel quantum technologies (*QT*
 >   >  This repository has the aim to gather source-codes developed by myself while I'm studying my Programation I course as undergraduate student in Computer Engineering at IC - UFAL. The repository is written in Brazilian Portuguese (my native human language) with some examples of code from [the huxley](https://thehuxley.com/), platform where the problems were posed, developed as exercises.
 >
 
-<!-- >   [**Data structures and algorithms**]()
+<!--
+>   [**Data structures and algorithms**]()
 >
 -->
 
-<!-- >   [**Notes on quantum computing and communication**]()
+<!--
+>   [**Notes on quantum computing and communication**]()
 >
 -->
