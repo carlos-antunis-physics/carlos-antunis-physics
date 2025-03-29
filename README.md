@@ -66,10 +66,6 @@ I am profoundly eager to understand more deeply novel quantum technologies (*QT*
 >
 -->
 
-<!-- >   [**Notes on formal languages, automata and computability**]()
->
--->
-
 <!-- >   [**Notes on quantum computing and communication**]()
 >
 -->
