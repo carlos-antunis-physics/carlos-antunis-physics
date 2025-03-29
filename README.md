@@ -47,7 +47,11 @@ I am profoundly eager to understand more deeply novel quantum technologies (*QT*
 <!-- ####    Computer engineering projects
 
 >   [**Discrete mathematics project**]()
->-->
+>
+
+>   [**Introduction to computer engineering project**]()
+>
+-->
 
 ####    Lecture notes or problem sets
 
@@ -59,10 +63,13 @@ I am profoundly eager to understand more deeply novel quantum technologies (*QT*
 >
 
 <!-- >   [**Data structures and algorithms**]()
-> -->
+>
+-->
 
 <!-- >   [**Notes on formal languages, automata and computability**]()
-> -->
+>
+-->
 
 <!-- >   [**Notes on quantum computing and communication**]()
-> -->
+>
+-->
