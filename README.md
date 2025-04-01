@@ -54,7 +54,7 @@ I am profoundly eager to understand more deeply novel quantum technologies (*QT*
 >
 -->
 
-####    Lecture notes or problem sets
+####    Class notes or problem sets
 
 >   [**Programation I**](https://github.com/carlos-antunis-physics/programacao-I)
 >
