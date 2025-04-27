@@ -52,11 +52,6 @@ I am profoundly eager to understand more deeply novel quantum technologies (*QT*
 >   >
 >   >  RSA Cryptography project, developed as a colaboration between myself, Filipe, Flavia, [Giovanna](https://github.com/giovannaspace) and [Mirian](https://github.com/miriangomes), as a test for Discrete Mathematics course of first semester of Computer Engineering held by Professor Bruno Almeida Pimentel at IC - UFAL. The repository is written in Brazilian Portuguese (my native human language).
 
-<!--
->   [**Introduction to computer engineering project**]()
->
--->
-
 ####    Class notes or problem sets
 
 >   [**Programation I**](https://github.com/carlos-antunis-physics/programacao-I)
