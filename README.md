@@ -23,7 +23,7 @@ I'm a northeastern Brazilian student, who early became fascinated with marvelous
 
 [![Github status](https://github-readme-stats.vercel.app/api?username=carlos-antunis-physics&show_icons=true&bg_color=efefef&title_color=434d58&hide_border=true&hide_title=true&card_width=506)](#---)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis-physics&hide_border=true&layout=compact&hide=jupyter%20notebook&exclude_repo=projeto-matematica-discreta,backend-rsa&bg_color=efefef&title_color=434d58&card_width=506)](#---)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis-physics&hide_border=true&layout=compact&hide=jupyter%20notebook,javascript,html,CSS&exclude_repo=backend-rsa&bg_color=efefef&title_color=434d58&card_width=506)](#---)
 
 </div>
 
