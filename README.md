@@ -12,7 +12,7 @@
 
 </div>
 
-🇧🇷 Sou um estudante brasileiro, fascinado pela maravilhosa estranhesa apresentada pela natureza e pela beleza do pensamento abstrato que a descreve.
+🇧🇷 Sou um estudante brasileiro, fascinado pela maravilhosa estranheza apresentada pela natureza e pela beleza do pensamento abstrato que a descreve.
 
 🇺🇲 I'm a brazilian student, fascinated by the marvelous strangeness presented by nature and by the beauty of abstract thinking which describes it.
 
