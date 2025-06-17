@@ -55,6 +55,7 @@
 
 🇺🇲 As a budding theoretical and computational physicist working on [**Optics and Nanoscopy Group - GON**](https://if.ufal.br/grupo/gon/index_en.html), my research is mainly focused in **optics** and **microfabricated devices design**. My interests comprehends **quantum technologies**, in which I have some minor experinces, and **machine learning**. As future prospects, I hope to become capable to support the development of the novel computing paradigm, the quantum, through a gathered computing-physics point of view.
 
+<!--
 <div align="center">
 
 ###     Github favorite projects
@@ -64,7 +65,7 @@
 <!--
 ####    Research projects
 -->
-
+<!--
 ####    Class notes or problem sets
 
 >   [**Programation I**](https://github.com/carlos-antunis-physics/programacao-I)
@@ -95,6 +96,7 @@ language](https://img.shields.io/badge/Julia-efefef.svg?logo=data:image/svg%2bxm
 >   >   This repository assembles my class notes during the Minicourse on [Partial Differential Equations](https://www.ictp-saifr.org/mpde2025/), which aims to introduce the robustness and the wideness of Differential Equations and its applications. As a Physics MSc student, whose research area is optics, my focus on this class notes is mainly applying the mathematical and computational tools taught in the minicourse onto waveguide and nonlinear optics (my main interests in classical optics).
 -->
 
+<!--
 ####    Computer engineering projects
 
 >   [**Whack-a-mole project**](https://github.com/carlos-antunis-physics/projeto-whack-a-mole)
