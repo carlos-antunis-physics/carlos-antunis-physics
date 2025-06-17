@@ -2,7 +2,9 @@
 
 ##      Hi, my name is Carlos Antunis
 
-<img src="./assets/me.png" alt="me"  width="175">
+[
+    <img src="./assets/me.png" alt="me"  width="175"></a>
+](https://github.com/carlos-antunis-physics/)
 
 ☕ **A coffee-based lifeform**
 
