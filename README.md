@@ -14,9 +14,9 @@
 
 </div>
 
-🇧🇷 Sou um estudante brasileiro, fascinado pela maravilhosa estranheza apresentada pela natureza e pela beleza do pensamento abstrato que a descreve.
-
 🇺🇲 I'm a brazilian student, fascinated by the marvelous strangeness presented by nature and by the beauty of abstract thinking which describes it.
+
+🇧🇷 Sou um estudante brasileiro, fascinado pela maravilhosa estranheza apresentada pela natureza e pela beleza do pensamento abstrato que a descreve.
 
 <div align="center">
 
@@ -41,9 +41,9 @@
 
 </div>
 
-🇧🇷 Enquanto aluno de bacharelado em **Física**, tive a oportunidade de trabalhar com **física computational** na iniciação científica, me tornando apaixonado por **Computação** e obtendo certa experiência com programação. As linguagens de programação que possuo mais afinidade são `C` e `Python`, mas também possuo familiaridade com `Fortran`, bem como noções básicas de `Bash` (apenas o necessário para utilizar o terminal linux), `Matlab` e `Julia`.
-
 🇺🇲 As an undergraduate student in **Physics**, I had the opportunity to work with **computational physics** in scientific initiation, becoming passionate with **Computing** and acquiring some experience with programming. The programming languages which I have more afinity are `C` and `Python`, but I also have familiarity with `Fortran`, as the basics of `Bash` (only the required to use linux terminal), `Matlab` and `Julia`.
+
+🇧🇷 Enquanto aluno de bacharelado em **Física**, tive a oportunidade de trabalhar com **física computational** na iniciação científica, me tornando apaixonado por **Computação** e obtendo certa experiência com programação. As linguagens de programação que possuo mais afinidade são `C` e `Python`, mas também possuo familiaridade com `Fortran`, bem como noções básicas de `Bash` (apenas o necessário para utilizar o terminal linux), `Matlab` e `Julia`.
 
 <div align="center">
 
@@ -57,10 +57,9 @@
 
 </div>
 
+🇺🇲 As a budding theoretical and computational physicist working on [**Optics and Nanoscopy Group - GON**](https://if.ufal.br/grupo/gon/index_en.html), my research is mainly focused in **optics** and **microfabricated devices design**. My interests comprehends **quantum technologies**, in which I have some minor experinces, and **machine learning**. As future prospects, I hope to become capable to support the development of the novel computing paradigm, the quantum, through a gathered computing-physics point of view.
 
 🇧🇷 Como um físico teórico e computacional em desenvolvimento e membro do [**Grupo de Óptica e Nanoscopia - GON**](https://if.ufal.br/grupo/gon/), minha pesquisa se foca principalmente em **óptica** e **desenvolvimento de dispositivos microfabricados**. Meus interesses abarcam **tecnologias quânticas**, onde possuo algumas experiências menores, e **aprendizado de máquina**. Como perspectivas futuras, espero ser capaz de auxiliar no desenvolvimento do novo paradigma de computação, o quântico, através da integração dos pontos de vista da física e da computação.
-
-🇺🇲 As a budding theoretical and computational physicist working on [**Optics and Nanoscopy Group - GON**](https://if.ufal.br/grupo/gon/index_en.html), my research is mainly focused in **optics** and **microfabricated devices design**. My interests comprehends **quantum technologies**, in which I have some minor experinces, and **machine learning**. As future prospects, I hope to become capable to support the development of the novel computing paradigm, the quantum, through a gathered computing-physics point of view.
 
 <!--
 <div align="center">
