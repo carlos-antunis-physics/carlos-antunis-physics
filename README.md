@@ -20,8 +20,6 @@
 
 <div align="center">
 
-[![Github status](https://github-readme-stats.vercel.app/api?username=carlos-antunis-physics&show_icons=true&bg_color=efefef&title_color=434d58&hide_border=true&hide_title=true&card_width=506)](#---)
-
 ###     Programming languages and technologies
 
 [![C programming language](https://img.shields.io/badge/C-efefef.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDM1OTlDIiBkPSJNMTE3LjUgMzMuNWwuMy0uMmMtLjYtMS4xLTEuNS0yLjEtMi40LTIuNkw2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNFYzNi4xYy4xLS44IDAtMS43LS40LTIuNnpNNjQgODguNWM5LjEgMCAxNy4xLTUgMjEuMy0xMi40bDEyLjkgNy42Yy02LjggMTEuOC0xOS42IDE5LjgtMzQuMiAxOS44LTIxLjggMC0zOS41LTE3LjctMzkuNS0zOS41UzQyLjIgMjQuNSA2NCAyNC41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVDODEuMSA0NC41IDczLjEgMzkuNSA2NCAzOS41Yy0xMy41IDAtMjQuNSAxMS0yNC41IDI0LjVzMTEgMjQuNSAyNC41IDI0LjV6Ii8+PC9zdmc+&style=flat-square)](#---)
@@ -46,8 +44,6 @@
 🇧🇷 Enquanto aluno de bacharelado em **Física**, tive a oportunidade de trabalhar com **física computational** na iniciação científica, me tornando apaixonado por **Computação** e obtendo certa experiência com programação. As linguagens de programação que possuo mais afinidade são `C` e `Python`, mas também possuo familiaridade com `Fortran`, bem como noções básicas de `Bash` (apenas o necessário para utilizar o terminal linux), `Matlab` e `Julia`.
 
 <div align="center">
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis-physics&hide_border=true&layout=compact&hide=jupyter%20notebook,javascript,html,CSS&exclude_repo=backend-rsa&bg_color=efefef&title_color=434d58&card_width=506)](#---)
 
 </div>
 
